@@ -34,6 +34,7 @@ app.post('/addWeather', addIncoming);
 function addIncoming(req , res){
   projectData['temperature'] = req.body.temperature;
   projectData['user_response'] = req.body.user_response;
+  projectData['Date'] = req.body.Date;
 }
 
 
