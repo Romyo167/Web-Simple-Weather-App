@@ -1,3 +1,6 @@
+
+# This Project was modified and the original version is by Udacity 
+
 # Weather-Journal App Project
 
 ## Overview
